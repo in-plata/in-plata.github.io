@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacto on Home</title>
-    <link>https://examplesite.com/contacto/</link>
+    <link>https://in-plata.github.io/contacto/</link>
     <description>Recent content in Contacto on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://examplesite.com/contacto/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://in-plata.github.io/contacto/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
