@@ -1,0 +1,28 @@
+---
+title: {{nombre}}
+date: {{fecha}}
+draft: false
+
+# descripcion
+description : {{descripcion}}
+
+# precio
+price: {{precio venta}}
+
+materials: {{materiales}}
+
+color: {{color}}
+
+dimensions: {{dimensiones}}
+
+code: {{codigo}}
+
+type: "{{producto}}"
+
+# Images
+# first image will be shown in the product page
+images:
+  # - image: "images/path_to_image"
+  # La ubicacion de las imagenes es imagenes/{{producto}}/{{categoria}}/{{nombre imagen}}
+{{images}}
+---
