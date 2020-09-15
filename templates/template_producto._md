@@ -7,7 +7,7 @@ draft: false
 description : {{descripcion}}
 
 # precio
-price: {{precio venta}}
+price: $ {{precio venta}}
 
 materials: {{materiales}}
 
