@@ -19,6 +19,8 @@ code: {{codigo}}
 
 type: "{{producto}}"
 
+categories: [{{categories}}]
+
 # Images
 # first image will be shown in the product page
 images:
