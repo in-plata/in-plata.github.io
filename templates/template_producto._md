@@ -6,9 +6,6 @@ draft: false
 # descripcion
 description : {{descripcion}}
 
-# precio
-price: $ {{precio venta}}
-
 materials: {{materiales}}
 
 color: {{color}}

@@ -59,6 +59,7 @@
     position: relative;
     z-index: 10000;
   }
+  
   .form-control { 
     border: 1px solid #C5BEBE;
   }
@@ -115,7 +116,11 @@
               
               <a class="dropdown-item" href="https://in-plata.github.io/aros/colgantes/"><b>Colgantes</b></a>
               
+              <a class="dropdown-item" href="https://in-plata.github.io/aros/nacar/"><b>Nácar</b></a>
+              
               <a class="dropdown-item" href="https://in-plata.github.io/aros/trepadores/"><b>Trepadores</b></a>
+              
+              <a class="dropdown-item" href="https://in-plata.github.io/aros/strass/"><b>Strass</b></a>
               
               <a class="dropdown-item" href="https://in-plata.github.io/aros/todos/"><b>Todos</b></a>
               
@@ -186,6 +191,44 @@
 </section>
 <br>
 
+<script type="text/javascript">
+
+  function validateForm() {
+    var x = document.forms["contacto"]["email"].value;
+    if (x == "") {
+      alert("Por favor ingresá tu email, ahí te llegará nuestra respuesta");
+      document.forms["contacto"]["email"].focus();
+      return false;
+    }
+    return true;
+  }
+
+  var getParams = function (url) {
+    var params = {};
+    var parser = document.createElement('a');
+    parser.href = url;
+    var query = parser.search.substring(1);
+    var vars = query.split('&');
+    for (var i = 0; i < vars.length; i++) {
+      var pair = vars[i].split('=');
+      params[pair[0]] = decodeURIComponent(pair[1]);
+    }
+    return params;
+  };
+
+  window.onload = function(){
+    params = getParams(window.location.href)
+    const get_price = params['get_price'];
+    const code = params['code'];
+    if( get_price && code) {
+      message = `Hola!\nQuisiera consultar el precio del artículo con código ${code}`;
+      message += '\nMuchas gracias';
+      document.getElementById("message").value = message;
+    }
+  }
+
+</script>
+
 
 <section class="section pt-0">
   <div class="container">
@@ -212,12 +255,12 @@
       
       <div class="col-lg-4">
        
-        <form class="gform" action="https://script.google.com/macros/s/AKfycbyEqmkPeCd23NqbIEFXSevJUjvrhIMz34hZuxU0/exec" method="POST">
+        <form name="contacto" class="gform" action="https://script.google.com/macros/s/AKfycbyAXift3Wqrs3LHrNmgvrecvinLURxhmig0RJp7zx342TihJHY/exec" method="POST" >
           <input type="hidden" name="data-email" value="hola.in.plata@email.com">Nombre:
           <input type="text" class="form-control mb-2" id="name" name="name">Tu email:
           <input type="email" class="form-control mb-2" id="email" name="email">Mensaje:
           <textarea name="message" id="message" class="form-control mb-2"></textarea>
-          <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded">Enviar</button>
+          <button type="submit" value="send" class="btn btn-block btn-outline-primary rounded" onclick="return validateForm();">Enviar</button>
           <div style="display:none" class="thankyou_message">
             
             <h4 class="mb-4">Muchas gracias, responderemos tu mensaje a la brevedad!</h4>
