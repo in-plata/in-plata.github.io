@@ -2,56 +2,56 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Strass on Home</title>
-    <link>https://in-plata.github.io/aros/strass/</link>
+    <link>/aros/strass/</link>
     <description>Recent content in Strass on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://in-plata.github.io/aros/strass/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/aros/strass/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Florcita cinco pétalos</title>
-      <link>https://in-plata.github.io/aros/strass/01-06-0028/</link>
+      <link>/aros/strass/01-06-0028/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://in-plata.github.io/aros/strass/01-06-0028/</guid>
+      <guid>/aros/strass/01-06-0028/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florcita con centro color</title>
-      <link>https://in-plata.github.io/aros/strass/01-06-0009/</link>
+      <link>/aros/strass/01-06-0009/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://in-plata.github.io/aros/strass/01-06-0009/</guid>
+      <guid>/aros/strass/01-06-0009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florcita grande</title>
-      <link>https://in-plata.github.io/aros/strass/01-06-0008/</link>
+      <link>/aros/strass/01-06-0008/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://in-plata.github.io/aros/strass/01-06-0008/</guid>
+      <guid>/aros/strass/01-06-0008/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florcita mediana</title>
-      <link>https://in-plata.github.io/aros/strass/01-06-0006/</link>
+      <link>/aros/strass/01-06-0006/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://in-plata.github.io/aros/strass/01-06-0006/</guid>
+      <guid>/aros/strass/01-06-0006/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Florcita pequeña</title>
-      <link>https://in-plata.github.io/aros/strass/01-06-0007/</link>
+      <link>/aros/strass/01-06-0007/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://in-plata.github.io/aros/strass/01-06-0007/</guid>
+      <guid>/aros/strass/01-06-0007/</guid>
       <description></description>
     </item>
     
