@@ -38,6 +38,15 @@
     </item>
     
     <item>
+      <title>Colgantes</title>
+      <link>/aros/cristal/01-07-0655/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/cristal/01-07-0655/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Coronita cristal</title>
       <link>/aros/cristal/01-07-0023/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -47,25 +56,7 @@
     </item>
     
     <item>
-      <title>Cristal cuadrado mediano</title>
-      <link>/aros/cristal/01-07-0022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/cristal/01-07-0022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cristal rectangular</title>
-      <link>/aros/cristal/01-07-0026/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/cristal/01-07-0026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cristal redondo chico</title>
+      <title>Cristal Iris chico</title>
       <link>/aros/cristal/01-07-0024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -74,7 +65,7 @@
     </item>
     
     <item>
-      <title>Cristal redondo mediano</title>
+      <title>Cristal Iris grande</title>
       <link>/aros/cristal/01-07-0025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -83,7 +74,25 @@
     </item>
     
     <item>
-      <title>Cristal óvalo</title>
+      <title>Cristal Isa</title>
+      <link>/aros/cristal/01-07-0026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/cristal/01-07-0026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristal Penny</title>
+      <link>/aros/cristal/01-07-0022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/cristal/01-07-0022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristal Ro</title>
       <link>/aros/cristal/01-07-0027/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -115,6 +124,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/cristal/01-07-0398/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susanito colgante</title>
+      <link>/aros/cristal/01-07-0656/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/cristal/01-07-0656/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susanito mediano</title>
+      <link>/aros/cristal/01-07-0657/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/cristal/01-07-0657/</guid>
       <description></description>
     </item>
     

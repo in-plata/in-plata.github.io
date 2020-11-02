@@ -74,15 +74,6 @@
     </item>
     
     <item>
-      <title>Anillos dobles con cadena</title>
-      <link>/aros/colgantes/01-01-0017/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Animal</title>
       <link>/dijes/plata/02-14-0223/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -147,6 +138,15 @@
     
     <item>
       <title>Arbol de la vida</title>
+      <link>/aros/solo_plata/01-20-0645/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0645/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arbol de la vida</title>
       <link>/dijes/microcubic/02-13-0113/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -160,15 +160,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/dijes/n%C3%A1car/02-25-0627/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arbol de la vida chato</title>
-      <link>/aros/colgantes/01-01-0021/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0021/</guid>
       <description></description>
     </item>
     
@@ -205,15 +196,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/piedras/01-04-0130/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Arbol de la vida cóncavo</title>
-      <link>/aros/colgantes/01-01-0016/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0016/</guid>
       <description></description>
     </item>
     
@@ -259,6 +241,24 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/dijes/plata/02-14-0205/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arbolitos bombé</title>
+      <link>/aros/colgantes/01-01-0016/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arbolitos chatos</title>
+      <link>/aros/colgantes/01-01-0021/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0021/</guid>
       <description></description>
     </item>
     
@@ -1028,15 +1028,6 @@
     </item>
     
     <item>
-      <title>Aro con corazón colgante</title>
-      <link>/aros/colgantes/01-01-0034/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0034/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Aros Susanitos chicos</title>
       <link>/aros/cristal/01-07-0411/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1105,15 +1096,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/dijes/microcubic/02-13-0126/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bolita chica</title>
-      <link>/aros/colgantes/01-01-0011/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0011/</guid>
       <description></description>
     </item>
     
@@ -1379,6 +1361,15 @@
     </item>
     
     <item>
+      <title>Clara chicos</title>
+      <link>/aros/colgantes/01-01-0011/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Clave de sol</title>
       <link>/aros/colgantes/01-01-0048/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1438,6 +1429,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/solo_plata/01-20-0420/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Colgantes</title>
+      <link>/aros/cristal/01-07-0655/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/cristal/01-07-0655/</guid>
       <description></description>
     </item>
     
@@ -1659,6 +1659,15 @@
     
     <item>
       <title>Corazones</title>
+      <link>/aros/solo_plata/01-20-0642/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0642/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corazones</title>
       <link>/pulseras/marquesita/03-22-0537/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1672,6 +1681,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pulseras/plata/03-09-0552/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Corazones chatos</title>
+      <link>/aros/solo_plata/01-20-0644/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0644/</guid>
       <description></description>
     </item>
     
@@ -2198,25 +2216,7 @@
     </item>
     
     <item>
-      <title>Cristal cuadrado mediano</title>
-      <link>/aros/cristal/01-07-0022/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/cristal/01-07-0022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cristal rectangular</title>
-      <link>/aros/cristal/01-07-0026/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/cristal/01-07-0026/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cristal redondo chico</title>
+      <title>Cristal Iris chico</title>
       <link>/aros/cristal/01-07-0024/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -2225,11 +2225,38 @@
     </item>
     
     <item>
-      <title>Cristal redondo mediano</title>
+      <title>Cristal Iris grande</title>
       <link>/aros/cristal/01-07-0025/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/cristal/01-07-0025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristal Isa</title>
+      <link>/aros/cristal/01-07-0026/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/cristal/01-07-0026/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristal Penny</title>
+      <link>/aros/cristal/01-07-0022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/cristal/01-07-0022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cristal Ro</title>
+      <link>/aros/cristal/01-07-0027/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/cristal/01-07-0027/</guid>
       <description></description>
     </item>
     
@@ -2239,15 +2266,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pulseras/marquesita/03-22-0533/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cristal óvalo</title>
-      <link>/aros/cristal/01-07-0027/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/cristal/01-07-0027/</guid>
       <description></description>
     </item>
     
@@ -2383,6 +2401,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/piedras/01-04-0142/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cuadrados chatos</title>
+      <link>/aros/solo_plata/01-20-0653/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0653/</guid>
       <description></description>
     </item>
     
@@ -2783,15 +2810,6 @@
     </item>
     
     <item>
-      <title>Espiral</title>
-      <link>/aros/colgantes/01-01-0014/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0014/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Espirales</title>
       <link>/aros/colgantes/01-01-0312/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2954,6 +2972,15 @@
     </item>
     
     <item>
+      <title>Flopi</title>
+      <link>/aros/colgantes/01-01-0030/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0030/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Flor</title>
       <link>/anillos/plata/05-23-0587/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3053,11 +3080,11 @@
     </item>
     
     <item>
-      <title>Florcita cinco pétalos</title>
-      <link>/aros/strass/01-06-0028/</link>
+      <title>Florcita Centro</title>
+      <link>/aros/strass/01-06-0009/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/aros/strass/01-06-0028/</guid>
+      <guid>/aros/strass/01-06-0009/</guid>
       <description></description>
     </item>
     
@@ -3071,16 +3098,7 @@
     </item>
     
     <item>
-      <title>Florcita con centro color</title>
-      <link>/aros/strass/01-06-0009/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/strass/01-06-0009/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Florcita grande</title>
+      <title>Florcita G</title>
       <link>/aros/strass/01-06-0008/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -3089,7 +3107,7 @@
     </item>
     
     <item>
-      <title>Florcita mediana</title>
+      <title>Florcita M</title>
       <link>/aros/strass/01-06-0006/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -3098,7 +3116,7 @@
     </item>
     
     <item>
-      <title>Florcita pequeña</title>
+      <title>Florcita P</title>
       <link>/aros/strass/01-06-0007/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -3112,6 +3130,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/anillos/plata/05-23-0593/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florcitas</title>
+      <link>/aros/solo_plata/01-20-0643/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0643/</guid>
       <description></description>
     </item>
     
@@ -3395,6 +3422,15 @@
     </item>
     
     <item>
+      <title>Grecia</title>
+      <link>/aros/colgantes/01-01-0029/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0029/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Guitarra y clave de sol</title>
       <link>/dijes/plata/02-14-0233/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3418,15 +3454,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/solo_plata/01-20-0432/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hoja torzada</title>
-      <link>/aros/colgantes/01-01-0032/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0032/</guid>
       <description></description>
     </item>
     
@@ -3549,6 +3576,15 @@
     
     <item>
       <title>Infinito</title>
+      <link>/aros/solo_plata/01-20-0654/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0654/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infinito</title>
       <link>/pulseras/microcubic/03-21-0523/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -3665,6 +3701,15 @@
     </item>
     
     <item>
+      <title>Lucy</title>
+      <link>/aros/colgantes/01-01-0018/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Luna</title>
       <link>/aros/cristal_swarovski/01-10-0069/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3769,6 +3814,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/cubic/01-16-0301/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mano de Fátima</title>
+      <link>/aros/solo_plata/01-20-0646/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0646/</guid>
       <description></description>
     </item>
     
@@ -4061,6 +4115,15 @@
     </item>
     
     <item>
+      <title>Mechi</title>
+      <link>/aros/colgantes/01-01-0032/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0032/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Medallón con flor</title>
       <link>/dijes/plata/02-14-0202/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -4232,11 +4295,29 @@
     </item>
     
     <item>
+      <title>Night</title>
+      <link>/aros/colgantes/01-01-0033/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0033/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Nuditos</title>
       <link>/aros/solo_plata/01-20-0431/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/solo_plata/01-20-0431/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuditos</title>
+      <link>/aros/solo_plata/01-20-0651/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0651/</guid>
       <description></description>
     </item>
     
@@ -4372,15 +4453,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/colgantes/01-01-0035/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ovalo con flor</title>
-      <link>/aros/colgantes/01-01-0030/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0030/</guid>
       <description></description>
     </item>
     
@@ -4543,6 +4615,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/solo_plata/01-20-0423/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ovalos chatos chicos</title>
+      <link>/aros/solo_plata/01-20-0650/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0650/</guid>
       <description></description>
     </item>
     
@@ -4862,6 +4943,15 @@
     </item>
     
     <item>
+      <title>Primavera</title>
+      <link>/aros/strass/01-06-0028/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/strass/01-06-0028/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Princesa</title>
       <link>/aros/microcubic/01-03-0259/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -4903,6 +4993,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/cubic/01-16-0327/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rectángulos</title>
+      <link>/aros/solo_plata/01-20-0648/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0648/</guid>
       <description></description>
     </item>
     
@@ -5195,6 +5294,15 @@
     </item>
     
     <item>
+      <title>Roma</title>
+      <link>/aros/colgantes/01-01-0031/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0031/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rombo</title>
       <link>/aros/trepadores/01-05-0002/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -5218,6 +5326,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/cubic/01-16-0324/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rombos</title>
+      <link>/aros/solo_plata/01-20-0649/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0649/</guid>
       <description></description>
     </item>
     
@@ -5276,6 +5393,15 @@
     </item>
     
     <item>
+      <title>Rose</title>
+      <link>/aros/colgantes/01-01-0017/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Roseta grande</title>
       <link>/aros/marquesita/01-02-0289/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -5294,6 +5420,33 @@
     </item>
     
     <item>
+      <title>Shangai I</title>
+      <link>/aros/colgantes/01-01-0012/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shangai II</title>
+      <link>/aros/colgantes/01-01-0013/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0013/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Singapur</title>
+      <link>/aros/colgantes/01-01-0015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Snail</title>
       <link>/colgantes/cadenas/04-12-0543/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -5308,6 +5461,33 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/dijes/plata/02-14-0221/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sunrise</title>
+      <link>/aros/colgantes/01-01-0034/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0034/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susanito colgante</title>
+      <link>/aros/cristal/01-07-0656/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/cristal/01-07-0656/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Susanito mediano</title>
+      <link>/aros/cristal/01-07-0657/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/cristal/01-07-0657/</guid>
       <description></description>
     </item>
     
@@ -5335,15 +5515,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pulseras/plata/03-09-0549/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tirabuzón</title>
-      <link>/aros/colgantes/01-01-0010/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0010/</guid>
       <description></description>
     </item>
     
@@ -5384,29 +5555,11 @@
     </item>
     
     <item>
-      <title>Tiritas con bolitas</title>
-      <link>/aros/colgantes/01-01-0015/</link>
+      <title>Tokio</title>
+      <link>/aros/colgantes/01-01-0014/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/aros/colgantes/01-01-0015/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tiritas con rectángulo</title>
-      <link>/aros/colgantes/01-01-0013/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tiritas con rombo</title>
-      <link>/aros/colgantes/01-01-0012/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0012/</guid>
+      <guid>/aros/colgantes/01-01-0014/</guid>
       <description></description>
     </item>
     
@@ -5510,24 +5663,6 @@
     </item>
     
     <item>
-      <title>Torzado</title>
-      <link>/aros/colgantes/01-01-0029/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0029/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Torzado chico facetado</title>
-      <link>/aros/colgantes/01-01-0031/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0031/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Torzado doble chico</title>
       <link>/aros/colgantes/01-01-0046/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -5542,15 +5677,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/colgantes/01-01-0049/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Torzado largo facetado</title>
-      <link>/aros/colgantes/01-01-0033/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0033/</guid>
       <description></description>
     </item>
     
@@ -5582,6 +5708,15 @@
     </item>
     
     <item>
+      <title>Trapecios</title>
+      <link>/aros/solo_plata/01-20-0647/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0647/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Trenzado</title>
       <link>/anillos/plata/05-23-0605/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -5605,15 +5740,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/marquesita/01-02-0297/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Triple óvalo</title>
-      <link>/aros/colgantes/01-01-0018/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/colgantes/01-01-0018/</guid>
       <description></description>
     </item>
     
@@ -5700,6 +5826,15 @@
     
     <item>
       <title>Tréboles</title>
+      <link>/aros/solo_plata/01-20-0652/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/solo_plata/01-20-0652/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tréboles</title>
       <link>/pulseras/plata/03-09-0554/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -5776,6 +5911,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/anillos/plata/05-23-0603/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zoom</title>
+      <link>/aros/colgantes/01-01-0010/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/colgantes/01-01-0010/</guid>
       <description></description>
     </item>
     
