@@ -11,16 +11,7 @@
     
     
     <item>
-      <title>Dije Susanito chico</title>
-      <link>/dijes/cristal/02-19-0414/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/dijes/cristal/02-19-0414/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dije Susanito grande</title>
+      <title>Dije Susanito G</title>
       <link>/dijes/cristal/02-19-0416/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -29,11 +20,20 @@
     </item>
     
     <item>
-      <title>Dije Susanito mediano</title>
+      <title>Dije Susanito M</title>
       <link>/dijes/cristal/02-19-0415/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/dijes/cristal/02-19-0415/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dije Susanito S</title>
+      <link>/dijes/cristal/02-19-0414/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/dijes/cristal/02-19-0414/</guid>
       <description></description>
     </item>
     

@@ -11,16 +11,7 @@
     
     
     <item>
-      <title>Aros Susanitos chicos</title>
-      <link>/aros/cristal/01-07-0411/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/cristal/01-07-0411/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Aros Susanitos grandes</title>
+      <title>Aros Susanitos L</title>
       <link>/aros/cristal/01-07-0413/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -29,7 +20,7 @@
     </item>
     
     <item>
-      <title>Aros Susanitos medianos</title>
+      <title>Aros Susanitos M</title>
       <link>/aros/cristal/01-07-0412/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,11 +29,20 @@
     </item>
     
     <item>
-      <title>Colgantes</title>
-      <link>/aros/cristal/01-07-0655/</link>
+      <title>Aros Susanitos S</title>
+      <link>/aros/cristal/01-07-0411/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/aros/cristal/01-07-0655/</guid>
+      <guid>/aros/cristal/01-07-0411/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ciro</title>
+      <link>/aros/cristal/01-07-0398/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/cristal/01-07-0398/</guid>
       <description></description>
     </item>
     
@@ -101,16 +101,16 @@
     </item>
     
     <item>
-      <title>Redondo 10 cristales</title>
-      <link>/aros/cristal/01-07-0400/</link>
+      <title>Fall</title>
+      <link>/aros/cristal/01-07-0655/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/aros/cristal/01-07-0400/</guid>
+      <guid>/aros/cristal/01-07-0655/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Redondo 4 cristales</title>
+      <title>Otranto</title>
       <link>/aros/cristal/01-07-0399/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -119,16 +119,16 @@
     </item>
     
     <item>
-      <title>Redondo 4 cristales grande</title>
-      <link>/aros/cristal/01-07-0398/</link>
+      <title>Paula</title>
+      <link>/aros/cristal/01-07-0400/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/aros/cristal/01-07-0398/</guid>
+      <guid>/aros/cristal/01-07-0400/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Susanito colgante</title>
+      <title>Susanito fall</title>
       <link>/aros/cristal/01-07-0656/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -137,7 +137,7 @@
     </item>
     
     <item>
-      <title>Susanito mediano</title>
+      <title>Susanito M</title>
       <link>/aros/cristal/01-07-0657/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

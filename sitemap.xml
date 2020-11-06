@@ -7,11 +7,7 @@
   </url>
   
   <url>
-    <loc>/aros/marquesita/01-02-0290/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/marquesita/01-02-0288/</loc>
+    <loc>/aros/piedras/01-04-0145/</loc>
   </url>
   
   <url>
@@ -19,7 +15,19 @@
   </url>
   
   <url>
+    <loc>/aros/piedras/01-04-0146/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0528/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/solo_plata/01-20-0444/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0649/</loc>
   </url>
   
   <url>
@@ -27,7 +35,35 @@
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0246/</loc>
+    <loc>/aros/argollas/01-11-0402/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0357/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0447/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0436/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0405/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0042/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0332/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0359/</loc>
   </url>
   
   <url>
@@ -40,6 +76,14 @@
   
   <url>
     <loc>/aros/infantil/01-15-0159/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/marquesita/01-02-0293/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0480/</loc>
   </url>
   
   <url>
@@ -87,14 +131,6 @@
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0130/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/microcubic/01-03-0267/</loc>
-  </url>
-  
-  <url>
     <loc>/dijes/plata/02-14-0188/</loc>
   </url>
   
@@ -111,6 +147,10 @@
   </url>
   
   <url>
+    <loc>/aros/microcubic/01-03-0267/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/colgantes/01-01-0016/</loc>
   </url>
   
@@ -119,151 +159,7 @@
   </url>
   
   <url>
-    <loc>/aros/argollas/01-11-0347/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0352/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0466/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0480/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cubic/01-16-0338/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0495/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0493/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0494/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0492/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0487/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0488/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0491/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0490/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0489/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cubic/01-16-0337/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0481/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0482/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0484/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0486/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0485/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0483/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0345/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0351/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0346/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0348/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0343/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0355/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0354/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0404/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0305/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0405/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0306/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0307/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0308/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/colgantes/01-01-0304/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0471/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0071/</loc>
   </url>
   
   <url>
@@ -283,83 +179,23 @@
   </url>
   
   <url>
-    <loc>/aros/argollas/01-11-0467/</loc>
+    <loc>/aros/argollas/01-11-0071/</loc>
   </url>
   
   <url>
-    <loc>/aros/argollas/01-11-0477/</loc>
+    <loc>/aros/colgantes/01-01-0305/</loc>
   </url>
   
   <url>
-    <loc>/aros/argollas/01-11-0479/</loc>
+    <loc>/aros/colgantes/01-01-0308/</loc>
   </url>
   
   <url>
-    <loc>/aros/cubic/01-16-0334/</loc>
+    <loc>/aros/colgantes/01-01-0307/</loc>
   </url>
   
   <url>
-    <loc>/aros/argollas/01-11-0548/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0465/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0463/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0459/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0470/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0468/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0460/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0475/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0464/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cubic/01-16-0333/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0476/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0461/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0473/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0462/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cubic/01-16-0339/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cubic/01-16-0332/</loc>
+    <loc>/aros/colgantes/01-01-0306/</loc>
   </url>
   
   <url>
@@ -367,111 +203,15 @@
   </url>
   
   <url>
-    <loc>/aros/argollas/01-11-0472/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0469/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0356/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0474/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/argollas/</loc>
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0441/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0401/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0368/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0365/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0366/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0367/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0453/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0407/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0349/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0350/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0406/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0408/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0419/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0344/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0546/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0547/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0353/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0359/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0478/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/todos/</loc>
   </url>
   
   <url>
     <loc>/aros/todos/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cristal/01-07-0411/</loc>
   </url>
   
   <url>
@@ -480,6 +220,18 @@
   
   <url>
     <loc>/aros/cristal/01-07-0412/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cristal/01-07-0411/</loc>
+  </url>
+  
+  <url>
+    <loc>/anillos/plata/05-23-0602/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0153/</loc>
   </url>
   
   <url>
@@ -499,15 +251,123 @@
   </url>
   
   <url>
+    <loc>/aros/solo_plata/01-20-0435/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0303/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0513/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/microcubic/02-13-0126/</loc>
   </url>
   
   <url>
-    <loc>/aros/marquesita/01-02-0286/</loc>
+    <loc>/pulseras/marquesita/03-22-0535/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0327/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0151/</loc>
+  </url>
+  
+  <url>
+    <loc>/dijes/opalo/02-08-0055/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0142/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0310/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0468/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0252/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0446/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0020/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/marquesita/01-02-0289/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0049/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0408/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0045/</loc>
+  </url>
+  
+  <url>
+    <loc>/dijes/n%C3%A1car/02-25-0618/</loc>
+  </url>
+  
+  <url>
+    <loc>/anillos/plata/05-23-0580/</loc>
   </url>
   
   <url>
     <loc>/aros/colgantes/01-01-0089/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0325/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0273/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0135/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0275/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0144/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0345/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0448/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0510/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0131/</loc>
   </url>
   
   <url>
@@ -543,10 +403,6 @@
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0045/</loc>
-  </url>
-  
-  <url>
     <loc>/colgantes/cadenas/04-12-0079/</loc>
   </url>
   
@@ -579,11 +435,23 @@
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0086/</loc>
+    <loc>/aros/argollas/01-11-0495/</loc>
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0443/</loc>
+    <loc>/aros/argollas/01-11-0493/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0494/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0492/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0642/</loc>
   </url>
   
   <url>
@@ -591,7 +459,27 @@
   </url>
   
   <url>
+    <loc>/aros/solo_plata/01-20-0453/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0136/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/microcubic/01-03-0258/</loc>
+  </url>
+  
+  <url>
+    <loc>/anillos/plata/05-23-0576/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0643/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0356/</loc>
   </url>
   
   <url>
@@ -599,7 +487,27 @@
   </url>
   
   <url>
+    <loc>/pulseras/marquesita/03-22-0537/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0558/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/plata/02-14-0361/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0336/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0035/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0443/</loc>
   </url>
   
   <url>
@@ -611,6 +519,18 @@
   </url>
   
   <url>
+    <loc>/aros/argollas/01-11-0473/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0352/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0644/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/plata/02-14-0232/</loc>
   </url>
   
@@ -619,11 +539,35 @@
   </url>
   
   <url>
+    <loc>/aros/solo_plata/01-20-0426/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0422/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/plata/02-14-0186/</loc>
   </url>
   
   <url>
-    <loc>/aros/cubic/01-16-0340/</loc>
+    <loc>/aros/argollas/01-11-0548/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0038/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cristal/01-07-0398/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0097/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0348/</loc>
   </url>
   
   <url>
@@ -631,7 +575,23 @@
   </url>
   
   <url>
+    <loc>/aros/colgantes/01-01-0309/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/n%C3%A1car/03-24-0615/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/colgantes/01-01-0048/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0134/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0516/</loc>
   </url>
   
   <url>
@@ -639,79 +599,11 @@
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0309/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0417/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/microcubic/01-03-0358/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/microcubic/01-03-0357/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0420/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/colgantes/</loc>
   </url>
   
   <url>
-    <loc>/aros/cristal/01-07-0655/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0403/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0402/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0455/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0454/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0456/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/n%C3%A1car/03-24-0613/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/marquesita/03-22-0536/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0520/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/plata/03-09-0556/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0509/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0519/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/plata/03-09-0560/</loc>
+    <loc>/aros/piedras/01-04-0095/</loc>
   </url>
   
   <url>
@@ -719,35 +611,7 @@
   </url>
   
   <url>
-    <loc>/pulseras/plata/03-09-0550/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/plata/03-09-0551/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0508/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0525/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0521/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0507/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0506/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0510/</loc>
+    <loc>/aros/colgantes/01-01-0311/</loc>
   </url>
   
   <url>
@@ -763,31 +627,15 @@
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0429/</loc>
+    <loc>/aros/piedras/01-04-0091/</loc>
   </url>
   
   <url>
-    <loc>/aros/marquesita/01-02-0287/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0642/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/marquesita/03-22-0537/</loc>
+    <loc>/aros/argollas/01-11-0471/</loc>
   </url>
   
   <url>
     <loc>/pulseras/plata/03-09-0552/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0644/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0457/</loc>
   </url>
   
   <url>
@@ -807,10 +655,6 @@
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0636/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/infantil/01-15-0164/</loc>
   </url>
   
@@ -823,35 +667,11 @@
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0310/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cristal_swarovski/01-10-0063/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0418/</loc>
-  </url>
-  
-  <url>
     <loc>/dijes/plata/02-14-0241/</loc>
   </url>
   
   <url>
     <loc>/dijes/plata/02-14-0210/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0098/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cristal_swarovski/01-10-0061/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0311/</loc>
   </url>
   
   <url>
@@ -867,10 +687,6 @@
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0266/</loc>
-  </url>
-  
-  <url>
     <loc>/dijes/plata/02-14-0238/</loc>
   </url>
   
@@ -880,18 +696,6 @@
   
   <url>
     <loc>/dijes/plata/02-14-0360/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0087/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0435/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0425/</loc>
   </url>
   
   <url>
@@ -907,19 +711,7 @@
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0265/</loc>
-  </url>
-  
-  <url>
     <loc>/dijes/microcubic/02-13-0114/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0458/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0044/</loc>
   </url>
   
   <url>
@@ -931,14 +723,6 @@
   </url>
   
   <url>
-    <loc>/aros/cristal_swarovski/01-10-0064/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0436/</loc>
-  </url>
-  
-  <url>
     <loc>/dijes/plata/02-14-0212/</loc>
   </url>
   
@@ -947,35 +731,7 @@
   </url>
   
   <url>
-    <loc>/aros/cubic/01-16-0328/</loc>
-  </url>
-  
-  <url>
-    <loc>/anillos/plata/05-23-0579/</loc>
-  </url>
-  
-  <url>
     <loc>/dijes/plata/02-14-0226/</loc>
-  </url>
-  
-  <url>
-    <loc>/anillos/plata/05-23-0583/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cubic/01-16-0325/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0091/</loc>
-  </url>
-  
-  <url>
-    <loc>/anillos/plata/05-23-0573/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0430/</loc>
   </url>
   
   <url>
@@ -1011,7 +767,15 @@
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0264/</loc>
+    <loc>/aros/marquesita/01-02-0287/</loc>
+  </url>
+  
+  <url>
+    <loc>/anillos/plata/05-23-0583/</loc>
+  </url>
+  
+  <url>
+    <loc>/dijes/opalo/02-08-0053/</loc>
   </url>
   
   <url>
@@ -1020,10 +784,6 @@
   
   <url>
     <loc>/dijes/cristal/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/marquesita/03-22-0532/</loc>
   </url>
   
   <url>
@@ -1051,15 +811,19 @@
   </url>
   
   <url>
-    <loc>/pulseras/marquesita/03-22-0533/</loc>
+    <loc>/aros/solo_plata/01-20-0440/</loc>
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0282/</loc>
+    <loc>/aros/microcubic/01-03-0264/</loc>
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0283/</loc>
+    <loc>/pulseras/microcubic/03-21-0509/</loc>
+  </url>
+  
+  <url>
+    <loc>/anillos/plata/05-23-0575/</loc>
   </url>
   
   <url>
@@ -1075,10 +839,6 @@
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0152/</loc>
-  </url>
-  
-  <url>
     <loc>/dijes/microcubic/02-13-0122/</loc>
   </url>
   
@@ -1091,35 +851,11 @@
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0575/</loc>
-  </url>
-  
-  <url>
     <loc>/anillos/plata/05-23-0598/</loc>
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0440/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/microcubic/01-03-0281/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0149/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0142/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0653/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0426/</loc>
   </url>
   
   <url>
@@ -1135,26 +871,6 @@
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0427/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0641/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/plata/03-09-0558/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/plata/03-09-0557/</loc>
-  </url>
-  
-  <url>
-    <loc>/anillos/plata/05-23-0586/</loc>
-  </url>
-  
-  <url>
     <loc>/anillos/plata/05-23-0601/</loc>
   </url>
   
@@ -1167,18 +883,6 @@
   </url>
   
   <url>
-    <loc>/pulseras/microcubic/03-21-0530/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0529/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0518/</loc>
-  </url>
-  
-  <url>
     <loc>/dijes/plata/02-14-0224/</loc>
   </url>
   
@@ -1187,59 +891,31 @@
   </url>
   
   <url>
-    <loc>/aros/marquesita/01-02-0292/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/marquesita/01-02-0295/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0133/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0150/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0043/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/microcubic/01-03-0153/</loc>
-  </url>
-  
-  <url>
-    <loc>/dijes/n%C3%A1car/02-25-0617/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/microcubic/01-03-0263/</loc>
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0038/</loc>
+    <loc>/pulseras/microcubic/03-21-0508/</loc>
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0139/</loc>
+    <loc>/pulseras/marquesita/03-22-0531/</loc>
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0100/</loc>
+    <loc>/aros/piedras/01-04-0104/</loc>
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0047/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0135/</loc>
+    <loc>/anillos/plata/05-23-0607/</loc>
   </url>
   
   <url>
     <loc>/aros/microcubic/01-03-0279/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0040/</loc>
   </url>
   
   <url>
@@ -1251,11 +927,19 @@
   </url>
   
   <url>
-    <loc>/categories/destacados/</loc>
+    <loc>/aros/marquesita/01-02-0288/</loc>
   </url>
   
   <url>
-    <loc>/dijes/cristal/02-19-0414/</loc>
+    <loc>/aros/piedras/01-04-0641/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0470/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/destacados/</loc>
   </url>
   
   <url>
@@ -1267,6 +951,10 @@
   </url>
   
   <url>
+    <loc>/dijes/cristal/02-19-0414/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/</loc>
   </url>
   
@@ -1275,23 +963,35 @@
   </url>
   
   <url>
+    <loc>/aros/colgantes/01-01-0044/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/colgantes/01-01-0019/</loc>
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0088/</loc>
+    <loc>/aros/microcubic/01-03-0255/</loc>
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0268/</loc>
+    <loc>/aros/marquesita/01-02-0290/</loc>
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0571/</loc>
+    <loc>/anillos/plata/05-23-0570/</loc>
   </url>
   
   <url>
-    <loc>/pulseras/microcubic/03-21-0524/</loc>
+    <loc>/aros/piedras/01-04-0102/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cristal_swarovski/01-10-0066/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cristal_swarovski/01-10-0065/</loc>
   </url>
   
   <url>
@@ -1299,7 +999,15 @@
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0577/</loc>
+    <loc>/dijes/opalo/02-08-0050/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0043/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0465/</loc>
   </url>
   
   <url>
@@ -1307,19 +1015,7 @@
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0312/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cristal_swarovski/01-10-0068/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cubic/01-16-0300/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0085/</loc>
+    <loc>/aros/marquesita/01-02-0295/</loc>
   </url>
   
   <url>
@@ -1339,10 +1035,6 @@
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0442/</loc>
-  </url>
-  
-  <url>
     <loc>/pulseras/plata/03-09-0566/</loc>
   </url>
   
@@ -1355,7 +1047,7 @@
   </url>
   
   <url>
-    <loc>/aros/cubic/01-16-0302/</loc>
+    <loc>/anillos/plata/05-23-0574/</loc>
   </url>
   
   <url>
@@ -1363,11 +1055,15 @@
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0574/</loc>
+    <loc>/aros/piedras/01-04-0638/</loc>
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0602/</loc>
+    <loc>/pulseras/microcubic/03-21-0529/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cristal/01-07-0655/</loc>
   </url>
   
   <url>
@@ -1375,7 +1071,7 @@
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0040/</loc>
+    <loc>/anillos/plata/05-23-0572/</loc>
   </url>
   
   <url>
@@ -1383,11 +1079,11 @@
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0587/</loc>
+    <loc>/aros/infantil/01-15-0165/</loc>
   </url>
   
   <url>
-    <loc>/aros/infantil/01-15-0165/</loc>
+    <loc>/anillos/plata/05-23-0587/</loc>
   </url>
   
   <url>
@@ -1395,27 +1091,7 @@
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0269/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cubic/01-16-0329/</loc>
-  </url>
-  
-  <url>
     <loc>/conjuntos/aros_y_dije/06-18-0394/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0146/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cubic/01-16-0298/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cubic/01-16-0299/</loc>
   </url>
   
   <url>
@@ -1423,15 +1099,11 @@
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0572/</loc>
+    <loc>/aros/solo_plata/01-20-0439/</loc>
   </url>
   
   <url>
     <loc>/aros/strass/01-06-0009/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cubic/01-16-0336/</loc>
   </url>
   
   <url>
@@ -1451,51 +1123,51 @@
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0643/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/marquesita/03-22-0531/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0101/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/marquesita/01-02-0293/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0137/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0144/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0095/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/solo_plata/01-20-0445/</loc>
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0439/</loc>
+    <loc>/aros/argollas/01-11-0343/</loc>
   </url>
   
   <url>
-    <loc>/pulseras/marquesita/03-22-0541/</loc>
+    <loc>/aros/cubic/01-16-0340/</loc>
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0585/</loc>
+    <loc>/pulseras/microcubic/03-21-0519/</loc>
   </url>
   
   <url>
-    <loc>/pulseras/marquesita/03-22-0534/</loc>
+    <loc>/pulseras/marquesita/03-22-0532/</loc>
+  </url>
+  
+  <url>
+    <loc>/anillos/plata/05-23-0592/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0646/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0247/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0316/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0315/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0521/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/marquesita/01-02-0363/</loc>
   </url>
   
   <url>
@@ -1511,15 +1183,7 @@
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0604/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/microcubic/01-03-0250/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0106/</loc>
   </url>
   
   <url>
@@ -1539,15 +1203,15 @@
   </url>
   
   <url>
-    <loc>/aros/cristal_swarovski/01-10-0065/</loc>
+    <loc>/aros/marquesita/01-02-0284/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/marquesita/01-02-0286/</loc>
   </url>
   
   <url>
     <loc>/aros/colgantes/01-01-0314/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cristal_swarovski/01-10-0066/</loc>
   </url>
   
   <url>
@@ -1559,14 +1223,6 @@
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0132/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0020/</loc>
-  </url>
-  
-  <url>
     <loc>/conjuntos/aros_y_dije/06-18-0370/</loc>
   </url>
   
@@ -1575,15 +1231,23 @@
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0635/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0640/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/colgantes/01-01-0029/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0132/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0331/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/n%C3%A1car/03-24-0608/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/marquesita/03-22-0533/</loc>
   </url>
   
   <url>
@@ -1591,11 +1255,19 @@
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0276/</loc>
+    <loc>/aros/cubic/01-16-0338/</loc>
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0432/</loc>
+    <loc>/aros/argollas/01-11-0474/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0476/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0469/</loc>
   </url>
   
   <url>
@@ -1603,15 +1275,7 @@
   </url>
   
   <url>
-    <loc>/pulseras/n%C3%A1car/03-24-0616/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/n%C3%A1car/03-24-0614/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cubic/01-16-0323/</loc>
+    <loc>/anillos/plata/05-23-0584/</loc>
   </url>
   
   <url>
@@ -1619,7 +1283,7 @@
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0584/</loc>
+    <loc>/aros/cubic/01-16-0323/</loc>
   </url>
   
   <url>
@@ -1635,15 +1299,19 @@
   </url>
   
   <url>
+    <loc>/anillos/plata/05-23-0573/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0098/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0101/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/infantil/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/plata/03-09-0569/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/plata/03-09-0568/</loc>
   </url>
   
   <url>
@@ -1656,10 +1324,6 @@
   
   <url>
     <loc>/aros/solo_plata/01-20-0438/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0654/</loc>
   </url>
   
   <url>
@@ -1679,7 +1343,15 @@
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0582/</loc>
+    <loc>/aros/argollas/01-11-0403/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0654/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0546/</loc>
   </url>
   
   <url>
@@ -1687,7 +1359,31 @@
   </url>
   
   <url>
+    <loc>/aros/solo_plata/01-20-0437/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/plata/02-14-0166/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0268/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0432/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0430/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0631/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0551/</loc>
   </url>
   
   <url>
@@ -1699,11 +1395,107 @@
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0042/</loc>
+    <loc>/aros/piedras/01-04-0640/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0041/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0512/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0633/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0561/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0106/</loc>
+  </url>
+  
+  <url>
+    <loc>/anillos/plata/05-23-0604/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0248/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0461/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0150/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0329/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0650/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0351/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0550/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/marquesita/01-02-0362/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/n%C3%A1car/03-24-0616/</loc>
   </url>
   
   <url>
     <loc>/dijes/n%C3%A1car/02-25-0619/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/n%C3%A1car/03-24-0611/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0518/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0452/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0483/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/n%C3%A1car/03-24-0613/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0130/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0328/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0455/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0653/</loc>
   </url>
   
   <url>
@@ -1715,19 +1507,31 @@
   </url>
   
   <url>
+    <loc>/aros/colgantes/01-01-0039/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0462/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cristal_swarovski/01-10-0062/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0282/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0556/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/colgantes/01-01-0018/</loc>
   </url>
   
   <url>
-    <loc>/aros/cristal_swarovski/01-10-0069/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/trepadores/01-05-0001/</loc>
-  </url>
-  
-  <url>
-    <loc>/dijes/plata/02-14-0218/</loc>
+    <loc>/aros/argollas/01-11-0406/</loc>
   </url>
   
   <url>
@@ -1735,15 +1539,23 @@
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0270/</loc>
+    <loc>/aros/solo_plata/01-20-0427/</loc>
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0277/</loc>
+    <loc>/dijes/plata/02-14-0218/</loc>
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0422/</loc>
+    <loc>/aros/argollas/01-11-0463/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0487/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0488/</loc>
   </url>
   
   <url>
@@ -1751,15 +1563,27 @@
   </url>
   
   <url>
+    <loc>/aros/cristal_swarovski/01-10-0067/</loc>
+  </url>
+  
+  <url>
     <loc>/colgantes/cadenas/04-12-0542/</loc>
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0247/</loc>
+    <loc>/aros/microcubic/01-03-0251/</loc>
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0592/</loc>
+    <loc>/pulseras/n%C3%A1car/03-24-0609/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0276/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0557/</loc>
   </url>
   
   <url>
@@ -1767,23 +1591,11 @@
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0646/</loc>
-  </url>
-  
-  <url>
     <loc>/dijes/microcubic/02-13-0119/</loc>
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0315/</loc>
-  </url>
-  
-  <url>
     <loc>/dijes/plata/02-14-0193/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0316/</loc>
   </url>
   
   <url>
@@ -1795,6 +1607,26 @@
   </url>
   
   <url>
+    <loc>/pulseras/marquesita/03-22-0536/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0366/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0367/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0368/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0365/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/n%C3%A1car/02-25-0628/</loc>
   </url>
   
@@ -1803,7 +1635,15 @@
   </url>
   
   <url>
-    <loc>/pulseras/microcubic/03-21-0512/</loc>
+    <loc>/aros/argollas/01-11-0464/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0559/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0478/</loc>
   </url>
   
   <url>
@@ -1819,14 +1659,6 @@
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0275/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0513/</loc>
-  </url>
-  
-  <url>
     <loc>/dijes/n%C3%A1car/02-25-0620/</loc>
   </url>
   
@@ -1835,31 +1667,11 @@
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0607/</loc>
-  </url>
-  
-  <url>
     <loc>/dijes/n%C3%A1car/02-25-0625/</loc>
   </url>
   
   <url>
-    <loc>/aros/cubic/01-16-0303/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/trepadores/01-05-0003/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/infantil/01-15-0161/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/microcubic/01-03-0274/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/infantil/01-15-0162/</loc>
   </url>
   
   <url>
@@ -1875,7 +1687,7 @@
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0148/</loc>
+    <loc>/aros/infantil/01-15-0162/</loc>
   </url>
   
   <url>
@@ -1887,23 +1699,27 @@
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0251/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0105/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0104/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/marquesita/</loc>
   </url>
   
   <url>
     <loc>/pulseras/marquesita/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0137/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0530/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0636/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0283/</loc>
   </url>
   
   <url>
@@ -1919,35 +1735,19 @@
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0421/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/marquesita/01-02-0285/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0145/</loc>
-  </url>
-  
-  <url>
     <loc>/aros/piedras/01-04-0094/</loc>
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0138/</loc>
+    <loc>/aros/microcubic/01-03-0269/</loc>
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0097/</loc>
+    <loc>/pulseras/n%C3%A1car/03-24-0614/</loc>
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0131/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0102/</loc>
+    <loc>/aros/piedras/01-04-0103/</loc>
   </url>
   
   <url>
@@ -1963,15 +1763,27 @@
   </url>
   
   <url>
-    <loc>/pulseras/microcubic/03-21-0517/</loc>
+    <loc>/aros/cubic/01-16-0333/</loc>
   </url>
   
   <url>
-    <loc>/pulseras/microcubic/03-21-0516/</loc>
+    <loc>/aros/piedras/01-04-0105/</loc>
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0248/</loc>
+    <loc>/anillos/plata/05-23-0590/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cristal_swarovski/01-10-0069/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0090/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0526/</loc>
   </url>
   
   <url>
@@ -1983,15 +1795,47 @@
   </url>
   
   <url>
+    <loc>/aros/piedras/01-04-0635/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0420/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0088/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0129/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0457/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0547/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0477/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/plata/02-14-0200/</loc>
   </url>
   
   <url>
-    <loc>/pulseras/plata/03-09-0561/</loc>
+    <loc>/anillos/plata/05-23-0589/</loc>
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0273/</loc>
+    <loc>/aros/solo_plata/01-20-0647/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0441/</loc>
   </url>
   
   <url>
@@ -2003,6 +1847,14 @@
   </url>
   
   <url>
+    <loc>/aros/solo_plata/01-20-0423/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0466/</loc>
+  </url>
+  
+  <url>
     <loc>/nosotros/</loc>
   </url>
   
@@ -2011,7 +1863,11 @@
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0651/</loc>
+    <loc>/aros/argollas/01-11-0479/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0472/</loc>
   </url>
   
   <url>
@@ -2023,11 +1879,7 @@
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0090/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0511/</loc>
+    <loc>/aros/piedras/01-04-0100/</loc>
   </url>
   
   <url>
@@ -2055,7 +1907,23 @@
   </url>
   
   <url>
+    <loc>/aros/piedras/01-04-0141/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/opalo/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0417/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0148/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0346/</loc>
   </url>
   
   <url>
@@ -2067,39 +1935,15 @@
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0570/</loc>
+    <loc>/aros/argollas/01-11-0407/</loc>
   </url>
   
   <url>
-    <loc>/dijes/opalo/02-08-0053/</loc>
+    <loc>/aros/cristal/01-07-0399/</loc>
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0437/</loc>
-  </url>
-  
-  <url>
-    <loc>/dijes/opalo/02-08-0050/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0035/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0037/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0083/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0151/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0084/</loc>
+    <loc>/aros/microcubic/01-03-0155/</loc>
   </url>
   
   <url>
@@ -2111,111 +1955,11 @@
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0317/</loc>
-  </url>
-  
-  <url>
-    <loc>/dijes/opalo/02-08-0054/</loc>
-  </url>
-  
-  <url>
-    <loc>/dijes/opalo/02-08-0051/</loc>
-  </url>
-  
-  <url>
     <loc>/conjuntos/aros_y_dije/06-18-0385/</loc>
   </url>
   
   <url>
-    <loc>/dijes/opalo/02-08-0052/</loc>
-  </url>
-  
-  <url>
-    <loc>/anillos/plata/05-23-0590/</loc>
-  </url>
-  
-  <url>
-    <loc>/anillos/plata/05-23-0589/</loc>
-  </url>
-  
-  <url>
-    <loc>/anillos/plata/05-23-0594/</loc>
-  </url>
-  
-  <url>
-    <loc>/dijes/opalo/02-08-0055/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0428/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/n%C3%A1car/03-24-0610/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0423/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0650/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0134/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/microcubic/01-03-0155/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0143/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0141/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/marquesita/01-02-0284/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/n%C3%A1car/03-24-0609/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/n%C3%A1car/03-24-0608/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/marquesita/03-22-0535/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/marquesita/03-22-0539/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0637/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0638/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0639/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0632/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0633/</loc>
+    <loc>/pulseras/microcubic/03-21-0506/</loc>
   </url>
   
   <url>
@@ -2223,7 +1967,43 @@
   </url>
   
   <url>
+    <loc>/aros/colgantes/01-01-0320/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cristal_swarovski/01-10-0061/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0454/</loc>
+  </url>
+  
+  <url>
+    <loc>/dijes/opalo/02-08-0054/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cristal/01-07-0400/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0525/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0312/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0450/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/plata/02-14-0179/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0037/</loc>
   </url>
   
   <url>
@@ -2267,15 +2047,7 @@
   </url>
   
   <url>
-    <loc>/colgantes/cadenas/04-12-0544/</loc>
-  </url>
-  
-  <url>
     <loc>/colgantes/cadenas/04-12-0545/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/trepadores/01-05-0004/</loc>
   </url>
   
   <url>
@@ -2283,7 +2055,7 @@
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0255/</loc>
+    <loc>/colgantes/cadenas/04-12-0544/</loc>
   </url>
   
   <url>
@@ -2291,7 +2063,27 @@
   </url>
   
   <url>
+    <loc>/aros/colgantes/01-01-0083/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0341/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/marquesita/01-02-0296/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0266/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0429/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0350/</loc>
   </url>
   
   <url>
@@ -2315,7 +2107,23 @@
   </url>
   
   <url>
+    <loc>/aros/cubic/01-16-0300/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0520/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0047/</loc>
+  </url>
+  
+  <url>
     <loc>/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/marquesita/01-02-0292/</loc>
   </url>
   
   <url>
@@ -2323,11 +2131,19 @@
   </url>
   
   <url>
+    <loc>/anillos/plata/05-23-0585/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/microcubic/01-03-0259/</loc>
   </url>
   
   <url>
-    <loc>/pulseras/microcubic/03-21-0527/</loc>
+    <loc>/aros/microcubic/01-03-0157/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0152/</loc>
   </url>
   
   <url>
@@ -2335,87 +2151,35 @@
   </url>
   
   <url>
-    <loc>/dijes/n%C3%A1car/02-25-0618/</loc>
+    <loc>/anillos/plata/05-23-0582/</loc>
   </url>
   
   <url>
-    <loc>/aros/cubic/01-16-0331/</loc>
+    <loc>/aros/microcubic/01-03-0265/</loc>
   </url>
   
   <url>
-    <loc>/aros/cubic/01-16-0327/</loc>
+    <loc>/aros/cubic/01-16-0334/</loc>
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0648/</loc>
+    <loc>/pulseras/marquesita/03-22-0539/</loc>
   </url>
   
   <url>
-    <loc>/pulseras/n%C3%A1car/03-24-0615/</loc>
+    <loc>/pulseras/marquesita/03-22-0541/</loc>
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0136/</loc>
+    <loc>/pulseras/microcubic/03-21-0511/</loc>
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0096/</loc>
+    <loc>/pulseras/microcubic/03-21-0527/</loc>
   </url>
   
   <url>
-    <loc>/aros/piedras/01-04-0099/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/n%C3%A1car/03-24-0611/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/marquesita/03-22-0538/</loc>
-  </url>
-  
-  <url>
-    <loc>/anillos/plata/05-23-0588/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0634/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cristal_swarovski/01-10-0062/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/trepadores/01-05-0005/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cristal/01-07-0400/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cristal/01-07-0399/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/cristal/01-07-0398/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0448/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0447/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/marquesita/01-02-0363/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/marquesita/01-02-0362/</loc>
+    <loc>/anillos/plata/05-23-0594/</loc>
   </url>
   
   <url>
@@ -2463,19 +2227,19 @@
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0320/</loc>
+    <loc>/aros/cristal_swarovski/01-10-0064/</loc>
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0581/</loc>
+    <loc>/aros/cristal_swarovski/01-10-0063/</loc>
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0580/</loc>
+    <loc>/aros/piedras/01-04-0639/</loc>
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0576/</loc>
+    <loc>/aros/argollas/01-11-0459/</loc>
   </url>
   
   <url>
@@ -2483,35 +2247,19 @@
   </url>
   
   <url>
-    <loc>/aros/trepadores/01-05-0002/</loc>
+    <loc>/aros/colgantes/01-01-0084/</loc>
   </url>
   
   <url>
-    <loc>/aros/cubic/01-16-0330/</loc>
+    <loc>/anillos/plata/05-23-0571/</loc>
   </url>
   
   <url>
-    <loc>/aros/cubic/01-16-0324/</loc>
+    <loc>/pulseras/microcubic/03-21-0507/</loc>
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0649/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0103/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0129/</loc>
-  </url>
-  
-  <url>
-    <loc>/pulseras/microcubic/03-21-0528/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/piedras/01-04-0631/</loc>
+    <loc>/aros/piedras/01-04-0632/</loc>
   </url>
   
   <url>
@@ -2523,15 +2271,63 @@
   </url>
   
   <url>
+    <loc>/pulseras/marquesita/03-22-0538/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/colgantes/01-01-0017/</loc>
   </url>
   
   <url>
-    <loc>/aros/marquesita/01-02-0289/</loc>
+    <loc>/anillos/plata/05-23-0586/</loc>
   </url>
   
   <url>
-    <loc>/pulseras/plata/03-09-0559/</loc>
+    <loc>/aros/cubic/01-16-0302/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0337/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0442/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0634/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0460/</loc>
+  </url>
+  
+  <url>
+    <loc>/dijes/n%C3%A1car/02-25-0617/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0401/</loc>
+  </url>
+  
+  <url>
+    <loc>/anillos/plata/05-23-0581/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0475/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0421/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0517/</loc>
+  </url>
+  
+  <url>
+    <loc>/anillos/plata/05-23-0579/</loc>
   </url>
   
   <url>
@@ -2543,7 +2339,39 @@
   </url>
   
   <url>
+    <loc>/aros/solo_plata/01-20-0424/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0085/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0330/</loc>
+  </url>
+  
+  <url>
+    <loc>/dijes/opalo/02-08-0052/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0046/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/colgantes/01-01-0015/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0458/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0277/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0419/</loc>
   </url>
   
   <url>
@@ -2551,11 +2379,59 @@
   </url>
   
   <url>
+    <loc>/aros/piedras/01-04-0637/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/plata/02-14-0221/</loc>
   </url>
   
   <url>
+    <loc>/aros/argollas/01-11-0355/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0358/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0491/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0490/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0489/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0096/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0270/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cristal_swarovski/01-10-0068/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0099/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0087/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/strass/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0425/</loc>
   </url>
   
   <url>
@@ -2571,7 +2447,11 @@
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0450/</loc>
+    <loc>/aros/marquesita/01-02-0285/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/n%C3%A1car/03-24-0610/</loc>
   </url>
   
   <url>
@@ -2583,7 +2463,39 @@
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0424/</loc>
+    <loc>/aros/argollas/01-11-0484/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0486/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0485/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0560/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0344/</loc>
+  </url>
+  
+  <url>
+    <loc>/dijes/opalo/02-08-0051/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0404/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0347/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0456/</loc>
   </url>
   
   <url>
@@ -2591,19 +2503,23 @@
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0041/</loc>
+    <loc>/aros/colgantes/01-01-0086/</loc>
   </url>
   
   <url>
-    <loc>/aros/microcubic/01-03-0157/</loc>
+    <loc>/aros/solo_plata/01-20-0651/</loc>
   </url>
   
   <url>
-    <loc>/aros/cubic/01-16-0326/</loc>
+    <loc>/anillos/plata/05-23-0588/</loc>
   </url>
   
   <url>
-    <loc>/aros/cubic/01-16-0341/</loc>
+    <loc>/aros/argollas/01-11-0481/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0482/</loc>
   </url>
   
   <url>
@@ -2612,6 +2528,14 @@
   
   <url>
     <loc>/aros/colgantes/01-01-0014/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0133/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0648/</loc>
   </url>
   
   <url>
@@ -2659,15 +2583,7 @@
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0046/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0049/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/colgantes/01-01-0321/</loc>
+    <loc>/aros/piedras/01-04-0138/</loc>
   </url>
   
   <url>
@@ -2675,11 +2591,7 @@
   </url>
   
   <url>
-    <loc>/aros/cristal_swarovski/01-10-0067/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0647/</loc>
+    <loc>/aros/cubic/01-16-0324/</loc>
   </url>
   
   <url>
@@ -2687,11 +2599,31 @@
   </url>
   
   <url>
+    <loc>/aros/trepadores/01-05-0001/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/trepadores/01-05-0004/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/trepadores/01-05-0002/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/trepadores/01-05-0005/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/trepadores/</loc>
   </url>
   
   <url>
-    <loc>/pulseras/microcubic/03-21-0526/</loc>
+    <loc>/aros/trepadores/01-05-0003/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0326/</loc>
   </url>
   
   <url>
@@ -2699,27 +2631,19 @@
   </url>
   
   <url>
-    <loc>/aros/colgantes/01-01-0039/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0451/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/microcubic/01-03-0252/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0452/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/solo_plata/01-20-0446/</loc>
-  </url>
-  
-  <url>
     <loc>/anillos/plata/05-23-0578/</loc>
+  </url>
+  
+  <url>
+    <loc>/anillos/plata/05-23-0577/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0349/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0149/</loc>
   </url>
   
   <url>
@@ -2728,6 +2652,10 @@
   
   <url>
     <loc>/aros/microcubic/01-03-0254/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0569/</loc>
   </url>
   
   <url>
@@ -2755,6 +2683,34 @@
   </url>
   
   <url>
+    <loc>/aros/colgantes/01-01-0317/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0467/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0354/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0451/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0143/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0568/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0353/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/plata/02-14-0197/</loc>
   </url>
   
@@ -2763,15 +2719,59 @@
   </url>
   
   <url>
+    <loc>/aros/solo_plata/01-20-0418/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0321/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0139/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0524/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0298/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/cubic/01-16-0299/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0428/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/plata/02-14-0204/</loc>
   </url>
   
   <url>
-    <loc>/anillos/plata/05-23-0599/</loc>
+    <loc>/aros/cubic/01-16-0339/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0274/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/marquesita/03-22-0534/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0246/</loc>
   </url>
   
   <url>
     <loc>/anillos/plata/05-23-0603/</loc>
+  </url>
+  
+  <url>
+    <loc>/anillos/plata/05-23-0599/</loc>
   </url>
   
   <url>
