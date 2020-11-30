@@ -18,6 +18,8 @@ type: "{{producto}}"
 
 categories: [{{categories}}]
 
+price: {{precio web}}
+
 # Images
 # first image will be shown in the product page
 images:
