@@ -11,16 +11,7 @@
     
     
     <item>
-      <title>Promo strass 1</title>
-      <link>/promos/promo/99-99-0696/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/promos/promo/99-99-0696/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Promo strass 10</title>
+      <title>Promo cristal 10</title>
       <link>/promos/promo/99-99-0705/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -29,7 +20,7 @@
     </item>
     
     <item>
-      <title>Promo strass 11</title>
+      <title>Promo cristal 11</title>
       <link>/promos/promo/99-99-0706/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,11 +29,38 @@
     </item>
     
     <item>
-      <title>Promo strass 12</title>
+      <title>Promo cristal 12</title>
       <link>/promos/promo/99-99-0707/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/promos/promo/99-99-0707/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promo cristal 8</title>
+      <link>/promos/promo/99-99-0703/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/promos/promo/99-99-0703/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promo cristal 9</title>
+      <link>/promos/promo/99-99-0704/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/promos/promo/99-99-0704/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promo strass 1</title>
+      <link>/promos/promo/99-99-0696/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/promos/promo/99-99-0696/</guid>
       <description></description>
     </item>
     
@@ -97,24 +115,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/promos/promo/99-99-0702/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Promo strass 8</title>
-      <link>/promos/promo/99-99-0703/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/promos/promo/99-99-0703/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Promo strass 9</title>
-      <link>/promos/promo/99-99-0704/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/promos/promo/99-99-0704/</guid>
       <description></description>
     </item>
     
