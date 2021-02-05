@@ -11,24 +11,6 @@
     
     
     <item>
-      <title>Cadena chata</title>
-      <link>/colgantes/cadenas/04-12-0076/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/colgantes/cadenas/04-12-0076/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cadena cola de ratón</title>
-      <link>/colgantes/cadenas/04-12-0081/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/colgantes/cadenas/04-12-0081/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cadena cola de ratón extra fina</title>
       <link>/colgantes/cadenas/04-12-0082/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -56,11 +38,20 @@
     </item>
     
     <item>
-      <title>Cadena con pelotitas</title>
-      <link>/colgantes/cadenas/04-12-0107/</link>
+      <title>Cadena Cordón</title>
+      <link>/colgantes/cadenas/04-12-0081/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/colgantes/cadenas/04-12-0107/</guid>
+      <guid>/colgantes/cadenas/04-12-0081/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cadena Egipto</title>
+      <link>/colgantes/cadenas/04-12-0076/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/colgantes/cadenas/04-12-0076/</guid>
       <description></description>
     </item>
     
@@ -83,11 +74,11 @@
     </item>
     
     <item>
-      <title>Cadena eslabón grande</title>
-      <link>/colgantes/cadenas/04-12-0077/</link>
+      <title>Cadena Maca</title>
+      <link>/colgantes/cadenas/04-12-0107/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/colgantes/cadenas/04-12-0077/</guid>
+      <guid>/colgantes/cadenas/04-12-0107/</guid>
       <description></description>
     </item>
     
@@ -97,6 +88,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/colgantes/cadenas/04-12-0410/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cadena Rolo grande</title>
+      <link>/colgantes/cadenas/04-12-0077/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/colgantes/cadenas/04-12-0077/</guid>
       <description></description>
     </item>
     

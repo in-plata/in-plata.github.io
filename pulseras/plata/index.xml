@@ -20,15 +20,6 @@
     </item>
     
     <item>
-      <title>Combinada cubic y estrellas</title>
-      <link>/pulseras/plata/03-09-0555/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pulseras/plata/03-09-0555/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Corazones</title>
       <link>/pulseras/plata/03-09-0552/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -83,6 +74,15 @@
     </item>
     
     <item>
+      <title>Joan</title>
+      <link>/pulseras/plata/03-09-0555/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pulseras/plata/03-09-0555/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Junín</title>
       <link>/pulseras/plata/03-09-0551/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -101,20 +101,20 @@
     </item>
     
     <item>
+      <title>Kids II</title>
+      <link>/pulseras/plata/03-09-0556/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pulseras/plata/03-09-0556/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lanín</title>
       <link>/pulseras/plata/03-09-0550/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pulseras/plata/03-09-0550/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Love kids</title>
-      <link>/pulseras/plata/03-09-0556/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pulseras/plata/03-09-0556/</guid>
       <description></description>
     </item>
     
@@ -155,11 +155,20 @@
     </item>
     
     <item>
-      <title>Perlitas plateadas</title>
+      <title>Perlitas</title>
       <link>/pulseras/plata/03-09-0056/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pulseras/plata/03-09-0056/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raza</title>
+      <link>/pulseras/plata/03-09-0057/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pulseras/plata/03-09-0057/</guid>
       <description></description>
     </item>
     
@@ -182,16 +191,7 @@
     </item>
     
     <item>
-      <title>Torzada chata simple</title>
-      <link>/pulseras/plata/03-09-0057/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pulseras/plata/03-09-0057/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Torzada doble</title>
+      <title>Torzada Aire</title>
       <link>/pulseras/plata/03-09-0058/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -200,20 +200,20 @@
     </item>
     
     <item>
-      <title>Torzada triple</title>
-      <link>/pulseras/plata/03-09-0060/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/pulseras/plata/03-09-0060/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Torzada triple lisa</title>
+      <title>Torzada triple Tierra</title>
       <link>/pulseras/plata/03-09-0059/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/pulseras/plata/03-09-0059/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Torzada Viento</title>
+      <link>/pulseras/plata/03-09-0060/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pulseras/plata/03-09-0060/</guid>
       <description></description>
     </item>
     
