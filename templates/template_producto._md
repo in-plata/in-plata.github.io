@@ -20,6 +20,8 @@ categories: [{{categories}}]
 
 price: {{precio web}}
 
+price_eftvo: {{precio venta cto}}
+
 # Images
 # first image will be shown in the product page
 images:
