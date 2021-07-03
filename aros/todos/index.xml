@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aros on Home</title>
+    <title>Todos on Home</title>
     <link>/aros/todos/</link>
-    <description>Recent content in Aros on Home</description>
+    <description>Recent content in Todos on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
