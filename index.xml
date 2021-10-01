@@ -164,15 +164,6 @@
     </item>
     
     <item>
-      <title>Ancona</title>
-      <link>/aros/cubic/01-16-0332/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/cubic/01-16-0332/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Andria</title>
       <link>/aros/argollas/01-11-0359/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2198,6 +2189,15 @@
     </item>
     
     <item>
+      <title>Espigas</title>
+      <link>/aros/microcubic/01-03-0156/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/microcubic/01-03-0156/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Estela</title>
       <link>/aros/marquesita/01-02-0295/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3989,15 +3989,6 @@
     </item>
     
     <item>
-      <title>Milán</title>
-      <link>/aros/cubic/01-16-0333/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/cubic/01-16-0333/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Minnie</title>
       <link>/aros/piedras/01-04-0105/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -5141,15 +5132,6 @@
     </item>
     
     <item>
-      <title>Rávena</title>
-      <link>/aros/cubic/01-16-0337/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/cubic/01-16-0337/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Sail</title>
       <link>/aros/solo_plata/01-20-0442/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -5834,15 +5816,6 @@
     </item>
     
     <item>
-      <title>Trepador Perlas</title>
-      <link>/aros/trepadores/01-05-0004/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/trepadores/01-05-0004/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Trepador Rombos</title>
       <link>/aros/trepadores/01-05-0002/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -6136,15 +6109,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/dijes/plata/02-14-0204/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Viterbo</title>
-      <link>/aros/cubic/01-16-0339/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/cubic/01-16-0339/</guid>
       <description></description>
     </item>
     
