@@ -209,15 +209,6 @@
     </item>
     
     <item>
-      <title>Kittens</title>
-      <link>/aros/piedras/01-04-0106/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/piedras/01-04-0106/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>La Roche</title>
       <link>/aros/piedras/01-04-0150/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -376,6 +367,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/piedras/01-04-0634/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simpy</title>
+      <link>/aros/piedras/01-04-0106/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/piedras/01-04-0106/</guid>
       <description></description>
     </item>
     
