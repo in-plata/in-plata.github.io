@@ -19,7 +19,15 @@
   </url>
   
   <url>
+    <loc>/dijes/plata/02-14-0880/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/plata/02-14-0192/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0912/</loc>
   </url>
   
   <url>
@@ -44,6 +52,10 @@
   
   <url>
     <loc>/aros/microcubic/01-03-0154/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0798/</loc>
   </url>
   
   <url>
@@ -159,6 +171,10 @@
   </url>
   
   <url>
+    <loc>/pulseras/plata/03-09-0858/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/colgantes/01-01-0016/</loc>
   </url>
   
@@ -172,10 +188,6 @@
   
   <url>
     <loc>/aros/argollas/01-11-0070/</loc>
-  </url>
-  
-  <url>
-    <loc>/aros/argollas/01-11-0074/</loc>
   </url>
   
   <url>
@@ -215,6 +227,18 @@
   </url>
   
   <url>
+    <loc>/aros/argollas/01-11-0897/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0905/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0906/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/todos/</loc>
   </url>
   
@@ -232,6 +256,10 @@
   
   <url>
     <loc>/aros/cristal/01-07-0411/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/aros_y_dije/</loc>
   </url>
   
   <url>
@@ -323,6 +351,10 @@
   </url>
   
   <url>
+    <loc>/aros/solo_plata/01-20-0911/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/marquesita/01-02-0289/</loc>
   </url>
   
@@ -351,7 +383,27 @@
   </url>
   
   <url>
+    <loc>/aros/colgantes/01-01-0850/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0792/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0791/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0816/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/cubic/01-16-0325/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0903/</loc>
   </url>
   
   <url>
@@ -459,6 +511,10 @@
   </url>
   
   <url>
+    <loc>/conjuntos/cadena_y_dije/</loc>
+  </url>
+  
+  <url>
     <loc>/colgantes/cadenas/</loc>
   </url>
   
@@ -472,6 +528,10 @@
   
   <url>
     <loc>/aros/argollas/01-11-0494/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0797/</loc>
   </url>
   
   <url>
@@ -528,6 +588,30 @@
   
   <url>
     <loc>/aros/cubic/01-16-0336/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0860/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0861/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0862/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0863/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0864/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0865/</loc>
   </url>
   
   <url>
@@ -639,7 +723,459 @@
   </url>
   
   <url>
+    <loc>/aros/trepadores/01-05-0882/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/colgantes/01-01-0311/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0844/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0840/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/aros_y_dije/06-18-0871/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0823/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0832/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0833/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0834/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0835/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0836/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0824/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0825/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0826/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0827/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0828/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0829/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0830/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0831/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/aros_y_dije/06-18-0868/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0842/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0843/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/aros_y_dije/06-18-0866/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/aros_y_dije/06-18-0867/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0744/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0753/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0754/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0755/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0756/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0757/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0758/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0759/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0760/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0761/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0762/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0745/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0763/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0764/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0765/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0766/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0767/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0768/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0769/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0770/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0771/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0772/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0746/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0773/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0774/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0775/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0776/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0777/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0778/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0779/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0780/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0781/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0782/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0747/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0783/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0784/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0785/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0786/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0787/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0788/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0789/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0748/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0749/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0750/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0751/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0752/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0715/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0716/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0717/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0718/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0696/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0705/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0706/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0707/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0708/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0709/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0710/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0711/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0712/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0713/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0714/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0697/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0698/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0699/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0700/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0701/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0702/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0703/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0704/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0719/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0728/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0729/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0730/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0731/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0732/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0733/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0734/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0735/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0720/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0721/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0722/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0723/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0724/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0725/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0726/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0727/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0845/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0846/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0847/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0841/</loc>
   </url>
   
   <url>
@@ -651,6 +1187,10 @@
   </url>
   
   <url>
+    <loc>/aros/trepadores/01-05-0884/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/microcubic/01-03-0280/</loc>
   </url>
   
@@ -659,7 +1199,15 @@
   </url>
   
   <url>
+    <loc>/pulseras/plata/03-09-0849/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/argollas/01-11-0471/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0837/</loc>
   </url>
   
   <url>
@@ -680,6 +1228,10 @@
   
   <url>
     <loc>/dijes/microcubic/02-13-0116/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0891/</loc>
   </url>
   
   <url>
@@ -751,6 +1303,22 @@
   </url>
   
   <url>
+    <loc>/colgantes/gargantillas/04-17-0854/</loc>
+  </url>
+  
+  <url>
+    <loc>/colgantes/gargantillas/04-17-0851/</loc>
+  </url>
+  
+  <url>
+    <loc>/colgantes/gargantillas/04-17-0852/</loc>
+  </url>
+  
+  <url>
+    <loc>/colgantes/gargantillas/04-17-0853/</loc>
+  </url>
+  
+  <url>
     <loc>/anillos/plata/05-23-0597/</loc>
   </url>
   
@@ -791,6 +1359,10 @@
   </url>
   
   <url>
+    <loc>/aros/microcubic/01-03-0894/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/cristal/01-07-0024/</loc>
   </url>
   
@@ -803,6 +1375,10 @@
   </url>
   
   <url>
+    <loc>/pulseras/microcubic/03-21-0902/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/cristal/01-07-0022/</loc>
   </url>
   
@@ -811,7 +1387,15 @@
   </url>
   
   <url>
+    <loc>/pulseras/microcubic/03-21-0900/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/cristal_swarovski/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0901/</loc>
   </url>
   
   <url>
@@ -863,6 +1447,10 @@
   </url>
   
   <url>
+    <loc>/aros/solo_plata/01-20-0889/</loc>
+  </url>
+  
+  <url>
     <loc>/anillos/plata/05-23-0601/</loc>
   </url>
   
@@ -872,6 +1460,10 @@
   
   <url>
     <loc>/pulseras/microcubic/03-21-0514/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0899/</loc>
   </url>
   
   <url>
@@ -927,7 +1519,15 @@
   </url>
   
   <url>
+    <loc>/pulseras/plata/03-09-0904/</loc>
+  </url>
+  
+  <url>
     <loc>/conjuntos/aros_y_dije/06-18-0376/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0848/</loc>
   </url>
   
   <url>
@@ -963,7 +1563,23 @@
   </url>
   
   <url>
+    <loc>/pulseras/plata/03-09-0874/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0873/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0875/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/colgantes/01-01-0036/</loc>
+  </url>
+  
+  <url>
+    <loc>/colgantes/gargantillas/04-17-0855/</loc>
   </url>
   
   <url>
@@ -1023,6 +1639,10 @@
   </url>
   
   <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0838/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/opalo/02-08-0050/</loc>
   </url>
   
@@ -1032,6 +1652,10 @@
   
   <url>
     <loc>/aros/argollas/01-11-0465/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0818/</loc>
   </url>
   
   <url>
@@ -1056,6 +1680,10 @@
   
   <url>
     <loc>/pulseras/plata/03-09-0553/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/trepadores/01-05-0881/</loc>
   </url>
   
   <url>
@@ -1172,6 +1800,18 @@
   
   <url>
     <loc>/pulseras/marquesita/03-22-0532/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/strass/01-06-0869/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/strass/01-06-0870/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/strass/01-06-0872/</loc>
   </url>
   
   <url>
@@ -1303,6 +1943,10 @@
   </url>
   
   <url>
+    <loc>/aros/microcubic/01-03-0892/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/cubic/01-16-0338/</loc>
   </url>
   
@@ -1387,6 +2031,26 @@
   </url>
   
   <url>
+    <loc>/aros/solo_plata/01-20-0908/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0909/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0839/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0910/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0907/</loc>
+  </url>
+  
+  <url>
     <loc>/pulseras/marquesita/03-22-0540/</loc>
   </url>
   
@@ -1439,6 +2103,10 @@
   </url>
   
   <url>
+    <loc>/aros/colgantes/01-01-0914/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/piedras/01-04-0631/</loc>
   </url>
   
@@ -1488,6 +2156,14 @@
   
   <url>
     <loc>/pulseras/plata/03-09-0556/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0813/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0888/</loc>
   </url>
   
   <url>
@@ -1615,6 +2291,10 @@
   </url>
   
   <url>
+    <loc>/pulseras/plata/03-09-0819/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/colgantes/01-01-0018/</loc>
   </url>
   
@@ -1632,6 +2312,18 @@
   
   <url>
     <loc>/dijes/plata/02-14-0218/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0814/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/trepadores/01-05-0886/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0790/</loc>
   </url>
   
   <url>
@@ -1675,7 +2367,11 @@
   </url>
   
   <url>
-    <loc>/aros/solo_plata/01-20-0709/</loc>
+    <loc>/aros/solo_plata/01-20-0857/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/solo_plata/01-20-0856/</loc>
   </url>
   
   <url>
@@ -1700,6 +2396,22 @@
   
   <url>
     <loc>/pulseras/marquesita/03-22-0536/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0794/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0795/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0793/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0796/</loc>
   </url>
   
   <url>
@@ -1771,7 +2483,31 @@
   </url>
   
   <url>
+    <loc>/aros/colgantes/01-01-0799/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0801/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0800/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/infantil/01-15-0160/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0803/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0804/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0802/</loc>
   </url>
   
   <url>
@@ -1784,6 +2520,50 @@
   
   <url>
     <loc>/aros/infantil/01-15-0162/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0805/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0806/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0807/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0808/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0815/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0820/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0821/</loc>
+  </url>
+  
+  <url>
+    <loc>/conjuntos/cadena_y_dije/06-26-0822/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0809/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0810/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0811/</loc>
   </url>
   
   <url>
@@ -1863,6 +2643,14 @@
   </url>
   
   <url>
+    <loc>/aros/argollas/01-11-0896/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/argollas/01-11-0895/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/piedras/01-04-0105/</loc>
   </url>
   
@@ -1888,6 +2676,10 @@
   
   <url>
     <loc>/pulseras/microcubic/03-21-0526/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/piedras/01-04-0913/</loc>
   </url>
   
   <url>
@@ -1963,6 +2755,10 @@
   </url>
   
   <url>
+    <loc>/pulseras/plata/03-09-0879/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/argollas/01-11-0466/</loc>
   </url>
   
@@ -1972,6 +2768,10 @@
   
   <url>
     <loc>/aros/solo_plata/01-20-0431/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/trepadores/01-05-0883/</loc>
   </url>
   
   <url>
@@ -1988,6 +2788,14 @@
   
   <url>
     <loc>/pulseras/n%C3%A1car/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0878/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0877/</loc>
   </url>
   
   <url>
@@ -2203,11 +3011,47 @@
   </url>
   
   <url>
+    <loc>/aros/trepadores/01-05-0885/</loc>
+  </url>
+  
+  <url>
     <loc>/dijes/plata/</loc>
   </url>
   
   <url>
     <loc>/pulseras/plata/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0736/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0737/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0738/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0739/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0740/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0741/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0742/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/colgantes/01-01-0743/</loc>
   </url>
   
   <url>
@@ -2288,6 +3132,10 @@
   
   <url>
     <loc>/aros/microcubic/01-03-0152/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/microcubic/03-21-0859/</loc>
   </url>
   
   <url>
@@ -2383,6 +3231,14 @@
   </url>
   
   <url>
+    <loc>/aros/solo_plata/01-20-0890/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0876/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/piedras/01-04-0632/</loc>
   </url>
   
@@ -2464,6 +3320,10 @@
   
   <url>
     <loc>/aros/colgantes/01-01-0085/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/trepadores/01-05-0887/</loc>
   </url>
   
   <url>
@@ -2711,6 +3571,10 @@
   </url>
   
   <url>
+    <loc>/pulseras/plata/03-09-0817/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/piedras/01-04-0138/</loc>
   </url>
   
@@ -2744,6 +3608,10 @@
   
   <url>
     <loc>/aros/trepadores/01-05-0003/</loc>
+  </url>
+  
+  <url>
+    <loc>/aros/microcubic/01-03-0893/</loc>
   </url>
   
   <url>
@@ -2807,6 +3675,10 @@
   </url>
   
   <url>
+    <loc>/aros/argollas/01-11-0898/</loc>
+  </url>
+  
+  <url>
     <loc>/aros/argollas/01-11-0467/</loc>
   </url>
   
@@ -2824,6 +3696,10 @@
   
   <url>
     <loc>/aros/piedras/01-04-0143/</loc>
+  </url>
+  
+  <url>
+    <loc>/pulseras/plata/03-09-0812/</loc>
   </url>
   
   <url>
