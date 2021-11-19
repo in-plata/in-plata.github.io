@@ -119,15 +119,6 @@
     </item>
     
     <item>
-      <title>Bilbao</title>
-      <link>/aros/argollas/01-11-0408/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/argollas/01-11-0408/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Bubbles</title>
       <link>/aros/argollas/01-11-0345/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -182,6 +173,24 @@
     </item>
     
     <item>
+      <title>Calabria 5.5</title>
+      <link>/aros/argollas/01-11-0973/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/argollas/01-11-0973/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calabria 7</title>
+      <link>/aros/argollas/01-11-0974/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/argollas/01-11-0974/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cassino</title>
       <link>/aros/argollas/01-11-0356/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -196,15 +205,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/argollas/01-11-0473/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chieti</title>
-      <link>/aros/argollas/01-11-0352/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/aros/argollas/01-11-0352/</guid>
       <description></description>
     </item>
     
@@ -286,6 +286,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/argollas/01-11-0469/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>India XL</title>
+      <link>/aros/argollas/01-11-0935/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/argollas/01-11-0935/</guid>
       <description></description>
     </item>
     
@@ -398,6 +407,15 @@
     </item>
     
     <item>
+      <title>Mare 1.7</title>
+      <link>/aros/argollas/01-11-0923/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/argollas/01-11-0923/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mare 1cm</title>
       <link>/aros/argollas/01-11-0793/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -412,6 +430,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/aros/argollas/01-11-0796/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mare 3.5</title>
+      <link>/aros/argollas/01-11-0922/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aros/argollas/01-11-0922/</guid>
       <description></description>
     </item>
     
