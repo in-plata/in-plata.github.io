@@ -4,13 +4,13 @@ date: {{fecha}}
 draft: false
 
 # descripcion
-description : {{descripcion}}
+description : "{{descripcion}}"
 
 materials: {{materiales}}
 
 color: {{color}}
 
-dimensions: {{dimensiones}}
+dimensions: "{{dimensiones}}"
 
 code: {{codigo}}
 
