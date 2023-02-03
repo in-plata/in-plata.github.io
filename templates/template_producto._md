@@ -22,6 +22,8 @@ price: {{precio web}}
 
 price_eftvo: {{precio venta cto}}
 
+link_mercado_shop: {{link_mercado_shop}}
+
 # Images
 # first image will be shown in the product page
 images:
