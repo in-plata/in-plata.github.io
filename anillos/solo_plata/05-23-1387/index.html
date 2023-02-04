@@ -78,17 +78,59 @@
     background: #C5BEBE;
     color: #fff;
   }
+
+  .form {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .search-field {
+    width: 50%;
+    padding: 10px 35px 10px 15px;
+    border: none;
+    border-radius: 100px;
+    outline: none;
+  }
+
+  .search-button {
+    background: transparent;
+    border: none;
+    outline: none;
+    margin-left: -33px;
+  }
+
+  .search-button img {
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+  }
 </style>
 
 
 <!-- navigation -->
 <header class="sticky-top navigation">
-  <div class="logostyle">
-    <a class="navbar-brand" href="/">
-      <img class="img-fluid" src="/images/logo_mediano.png" alt="Home">
-    </a>
-  </div>
-  <img src="/images/banner_overlay.png" class="img-fluid overlay-image" alt="">
+    <table width="100%">
+    <tr>
+      <td width="33%"></td>
+      <td width="33%" style="text-align:center">
+        <div class="logostyle">
+          <a class="navbar-brand" href="/">
+            <img class="img-fluid" src="/images/logo_mediano.png" alt="Home">
+          </a>
+        </div>
+      </td>
+      <td width="33%" align="center">
+        <form action="/search" method="GET">
+          <input  type="search" placeholder="Buscar..." class="search-field" id="s" name="s">
+          <button type="submit" class="search-button">
+            <img src="/images/search.png">
+          </button>
+        </form>
+      </td>
+    </tr>
+    </table>
+
+  
   <div>
     
     <nav class="navbar navbar-expand-lg navbar-light">

@@ -6711,6 +6711,11 @@
   </url>
   
   <url>
+    <loc>/search/</loc>
+    <priority>0.1</priority>
+  </url>
+  
+  <url>
     <loc>/aros/argollas/01-11-0475/</loc>
   </url>
   
